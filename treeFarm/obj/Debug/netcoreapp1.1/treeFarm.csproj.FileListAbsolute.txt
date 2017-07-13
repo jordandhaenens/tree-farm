@@ -1,0 +1,8 @@
+/Users/j/workspace/exercises/serverSide/tree-farm/treeFarm/bin/Debug/netcoreapp1.1/treeFarm.deps.json
+/Users/j/workspace/exercises/serverSide/tree-farm/treeFarm/bin/Debug/netcoreapp1.1/treeFarm.runtimeconfig.json
+/Users/j/workspace/exercises/serverSide/tree-farm/treeFarm/bin/Debug/netcoreapp1.1/treeFarm.runtimeconfig.dev.json
+/Users/j/workspace/exercises/serverSide/tree-farm/treeFarm/bin/Debug/netcoreapp1.1/treeFarm.dll
+/Users/j/workspace/exercises/serverSide/tree-farm/treeFarm/bin/Debug/netcoreapp1.1/treeFarm.pdb
+/Users/j/workspace/exercises/serverSide/tree-farm/treeFarm/obj/Debug/netcoreapp1.1/treeFarm.AssemblyInfo.cs
+/Users/j/workspace/exercises/serverSide/tree-farm/treeFarm/obj/Debug/netcoreapp1.1/treeFarm.dll
+/Users/j/workspace/exercises/serverSide/tree-farm/treeFarm/obj/Debug/netcoreapp1.1/treeFarm.pdb

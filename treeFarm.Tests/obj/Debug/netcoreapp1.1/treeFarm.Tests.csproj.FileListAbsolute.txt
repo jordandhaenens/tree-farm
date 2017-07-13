@@ -1,0 +1,13 @@
+/Users/j/workspace/exercises/serverSide/tree-farm/treeFarm.Tests/bin/Debug/netcoreapp1.1/treeFarm.Tests.deps.json
+/Users/j/workspace/exercises/serverSide/tree-farm/treeFarm.Tests/bin/Debug/netcoreapp1.1/treeFarm.Tests.runtimeconfig.json
+/Users/j/workspace/exercises/serverSide/tree-farm/treeFarm.Tests/bin/Debug/netcoreapp1.1/treeFarm.Tests.runtimeconfig.dev.json
+/Users/j/workspace/exercises/serverSide/tree-farm/treeFarm.Tests/obj/Debug/netcoreapp1.1/treeFarm.Tests.AssemblyInfo.cs
+/Users/j/workspace/exercises/serverSide/tree-farm/treeFarm.Tests/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/j/workspace/exercises/serverSide/tree-farm/treeFarm.Tests/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/j/workspace/exercises/serverSide/tree-farm/treeFarm.Tests/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/j/workspace/exercises/serverSide/tree-farm/treeFarm.Tests/bin/Debug/netcoreapp1.1/treeFarm.Tests.dll
+/Users/j/workspace/exercises/serverSide/tree-farm/treeFarm.Tests/bin/Debug/netcoreapp1.1/treeFarm.Tests.pdb
+/Users/j/workspace/exercises/serverSide/tree-farm/treeFarm.Tests/bin/Debug/netcoreapp1.1/treeFarm.dll
+/Users/j/workspace/exercises/serverSide/tree-farm/treeFarm.Tests/bin/Debug/netcoreapp1.1/treeFarm.pdb
+/Users/j/workspace/exercises/serverSide/tree-farm/treeFarm.Tests/obj/Debug/netcoreapp1.1/treeFarm.Tests.dll
+/Users/j/workspace/exercises/serverSide/tree-farm/treeFarm.Tests/obj/Debug/netcoreapp1.1/treeFarm.Tests.pdb
