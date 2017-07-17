@@ -10,6 +10,7 @@ namespace treeFarm.Tests
         public TreeShould()
         {
             _tree = new Tree() { Height = 4.2, Location = "A3", Type = "Oak" };
+            
         }
 
         [Theory]

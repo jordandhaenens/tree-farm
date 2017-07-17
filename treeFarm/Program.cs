@@ -9,6 +9,7 @@ namespace treeFarm
         public string Location { get; set; } = "";
         public string Type { get; set; } = "";
 
+
         public string Move (string newLocation)
         {
             if (newLocation != this.Location)
